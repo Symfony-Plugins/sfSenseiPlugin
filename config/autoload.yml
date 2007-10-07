@@ -1,0 +1,6 @@
+autoload:
+  Sensei:
+    name:       Sensei classes
+    ext:        .php
+    path:       %SF_PLUGINS_DIR%/sfSenseiPlugin/lib/sensei
+    recursive:  on
