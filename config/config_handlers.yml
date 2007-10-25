@@ -1,0 +1,3 @@
+config/sensei.yml:
+  class:    sfSenseiConfigHandler
+
